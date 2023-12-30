@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerVison/0. Introduction.md",
+                "file": "ComputerVison/3. Image Transformation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComputerVison/0. Introduction.md",
+                "file": "ComputerVison/3. Image Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComputerVison/0. Introduction.md",
+                "file": "ComputerVison/3. Image Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerVison/0. Introduction.md"
+                "file": "ComputerVison/3. Image Transformation.md"
               }
             }
           }
@@ -148,11 +148,16 @@
   },
   "active": "d6a90b4fc4f5fdbe",
   "lastOpenFiles": [
+    "ComputerVison/pdf/3. Image Transformation.pdf",
+    "ComputerVison/2. Filtering.md",
+    "ComputerVison/pdf/2. Filtering.pdf",
+    "ComputerVison/1. Image Enhancement.md",
+    "ComputerVison/pdf/1. Image Enhancement.pdf",
+    "ComputerVison/0. Introduction.md",
+    "ComputerVison/pdf/0. Introduction.pdf",
+    "ComputerVison/pdf",
     "README.md",
     "t",
-    "ComputerVison/0. Introduction.md",
-    "ComputerVison/1. Image Enhancement.md",
-    "ComputerVison/2. Filtering.md",
     "ComputerVison/3. Image Transformation.md",
     "ComputerVison/21- Regions-based image segmentation.md",
     "ComputerVison/4. Segmentation.md",
@@ -185,7 +190,6 @@
     "ComputerVison/13- Differential filters (Laplacian, Robert, Prewitt, Sobel).md",
     "ComputerVison/11- Non-Linear filters (Median, Kuwhara).md",
     "ComputerVison/10- Linear filters (Averaging, Circular, Pyramidal, Cone, Gaussian).md",
-    "ComputerVison/9- Image subtraction.md",
     "ComputerVison"
   ]
 }
