@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "e277afea300c9504",
+    "type": "split",
+    "children": [
+      {
+        "id": "84c487216b3aedc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6a90b4fc4f5fdbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComputerVison/0. Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8a410c7bacca460",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4d4212d9aca8a28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db12bb3744e5cd70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00ad456f14ebd1d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba44fd5b2d051efa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e538f44d75b06835",
+    "type": "split",
+    "children": [
+      {
+        "id": "d026cc8b223fb6a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "864118c8cec17032",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ComputerVison/0. Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca2da7fe26eec256",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ComputerVison/0. Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a82d95039692d33",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed1eb7bdde8036c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ComputerVison/0. Introduction.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d6a90b4fc4f5fdbe",
+  "lastOpenFiles": [
+    "README.md",
+    "t",
+    "ComputerVison/0. Introduction.md",
+    "ComputerVison/1. Image Enhancement.md",
+    "ComputerVison/2. Filtering.md",
+    "ComputerVison/3. Image Transformation.md",
+    "ComputerVison/21- Regions-based image segmentation.md",
+    "ComputerVison/4. Segmentation.md",
+    "ComputerVison/20- Edges-based image segmentation (Differential filters).md",
+    "ComputerVison/26- Convolutional Neural Network.md",
+    "ComputerVison/25- Classification (Euclidian, Mahalanobis).md",
+    "ComputerVison/24- Features extraction (Hue, Legendre, DCT, PCA).md",
+    "ComputerVison/23- Contour description (Crack, Chain, Run-length).md",
+    "ComputerVison/22- Image morphology (Dilation, Erosion, Opening, Closing).md",
+    "ComputerVison/Filtering.md",
+    "ComputerVison/12- Border treatment (Ignore, Repeat, Reflect).md",
+    "ComputerVison/4- Contrast stretching and contraction.md",
+    "ComputerVison/1- Histogram.md",
+    "ComputerVison/2- Labeling connected regions.md",
+    "ComputerVison/images/gray_level_slicing.png",
+    "ComputerVison/images/stretching_the_dynamic_range.png",
+    "ComputerVison/images/dynamicRangeEnhanced.png",
+    "ComputerVison/images/Pasted image 20231229093937.png",
+    "ComputerVison/images/Pasted image 20231229093301.png",
+    "ComputerVison/images/Pasted image 20231229092609.png",
+    "ComputerVison/images/Pasted image 20231229092540.png",
+    "ComputerVison/images/Pasted image 20231229092438.png",
+    "ComputerVison/images/Pasted image 20231228222149.png",
+    "ComputerVison/images/image_processing_based_system.png",
+    "ComputerVison/images",
+    "ComputerVison/18- Butterworth, Gaussian filters.md",
+    "ComputerVison/17- Ideal filters.md",
+    "ComputerVison/16- Discrete Cosine Transformation (DCT).md",
+    "ComputerVison/14- Image edges sharpening.md",
+    "ComputerVison/13- Differential filters (Laplacian, Robert, Prewitt, Sobel).md",
+    "ComputerVison/11- Non-Linear filters (Median, Kuwhara).md",
+    "ComputerVison/10- Linear filters (Averaging, Circular, Pyramidal, Cone, Gaussian).md",
+    "ComputerVison/9- Image subtraction.md",
+    "ComputerVison"
+  ]
+}
